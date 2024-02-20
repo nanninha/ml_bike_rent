@@ -1,0 +1,9 @@
+{
+    "subscription_id": "ead5da0b-d40a-42b6-8156-6055eb9ff034",
+    "resource_group": "LABAI-900",
+    "workspace_name": "laboratorioai900",
+    "online_endpoint": [
+        "laboratorioai900",
+        "laboratorioai900-xsjfr"
+    ]
+}
